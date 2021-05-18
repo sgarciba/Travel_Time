@@ -4,6 +4,6 @@
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
+ - [My static map](https://sgarciba.github.io/Travel_Time/Isochrones.png)
  - [My interactive map](https://sgarciba.github.io/Travel_Time/Transport_Mode.html)
  
